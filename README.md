@@ -4,6 +4,6 @@ ARTH - The School of Technologies - Team 7.15 Official Github Repository #ARTH20
 Team Members
 
 1. Sanket Bari (Team Leader)
-2. Shubham
+2. Shubham Bhardwaj
 3. Mangal
 4. Shobhit Sharma
